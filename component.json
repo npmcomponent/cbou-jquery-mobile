@@ -1,0 +1,17 @@
+{
+  "name": "jquery-mobile",
+  "repo": "cbou/jquery-mobile",
+  "description": "jQuery Mobile Framework",
+  "version": "0.0.1",
+  "keywords": ["ui", "jquery", "mobile"],
+  "dependencies": {
+    "jquery-component": "*"
+  },
+  "development": {},
+  "scripts": [
+    "compiled/jquery.mobile.js"
+  ],
+  "styles": [
+    "compiled/jquery.mobile.css"
+  ]
+}
