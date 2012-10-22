@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": ["ui", "jquery", "mobile"],
   "dependencies": {
-    "jquery-component": "*"
+    "jquery/component": "*"
   },
   "development": {},
   "scripts": [
