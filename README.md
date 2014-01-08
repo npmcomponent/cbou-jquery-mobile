@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [cbou/jquery-mobile](http://github.com/cbou/jquery-mobile). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/cbou-jquery-mobile`.*
 # jQuery Mobile
 
 This is the main repository for the jQuery Mobile project. From the [official website](http://jquerymobile.com):
